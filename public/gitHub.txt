@@ -1,0 +1,1 @@
+<script type="text/javascript">window.location = "https://github.com/bakrgit/08-ecommerce-design-only";</script>

@@ -1,0 +1,10 @@
+{
+    "categories":{"data" :  [
+        {"id" : "1" , "img" : "./images/clothe.png" , "details" : "d1"},
+        {"id" : "1" , "img" : "./images/cat2.png" , "details" : "d1"},
+        {"id" : "1" , "img" : "./images/labtop.png" , "details" : "d1"},
+        {"id" : "1" , "img" : "./images/sale.png" , "details" : "d1"},
+        {"id" : "1" , "img" : "./images/pic.png" , "details" : "d1"}
+                        ]
+        }
+}
